@@ -14,20 +14,20 @@
 # on GitHub Pages it is your github repository's name prefixed with a /
 #baseurl: /collectionbuilder-gh 
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
+source-code: https://github.com/iris-stories/objectlessons
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-Sheets
+title: Object Lessons
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Interrogating the everyday
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills."
+description: "An archive and series of exhibits exploring the history of technology/ies through every day objects (based on the Object Lessons series from Bloomsbury and the Atlantic)"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: HUM430/ENG482 (Fall 2026)
 
 ##########
 # COLLECTION SETTINGS
@@ -37,14 +37,14 @@ author: CollectionBuilder
 # e.g. relative path "/assets/demo-metadata.csv"
 # e.g. published google sheet "https://docs.google.com/spreadsheets/d/e/2PACX-1vSn7AA-cbsXT3_nNUGftc1ab-CKXOJHMQCIENeR9NHElbyI9_qA99o0-HNZdG04v-M2_N21bUe_krQQ/pub?output=csv"
 # e.g. on GitHub use the raw link "https://raw.githubusercontent.com/CollectionBuilder/collectionbuilder-sample-data/main/psychiana_cbdemo_gh.csv"
-metadata-csv: 
+metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vSKZYCJ1ULtw313fcl2t2EKICf1_3APylkipwivzv6BjvnzUxjhbV_iJvn3pyNgvyKR5OLezOw2CmIS/pub?output=csv
 
 ##########
 # Site/Organization Branding 
 # 
 # Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-# organization-link: https://cdil.lib.uidaho.edu/
+organization-name: "IRIS Center"
+organization-link: https://iris.siue.edu/
 # organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
